@@ -1,10 +1,7 @@
-## Hi there 👋
+## Welcome to My Github Page 👋
 
-
-**Luthfiyanto/Luthfiyanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
+# I'm Luthfiyanto
+Started as a frontend developer, experienced as a backend developer and continued as a full stack web developer.
 
 - 🔭 Experienced to build a webapp using Express and React
 - 🌱 Currently learning on Typescript and some advanced Javascript framework

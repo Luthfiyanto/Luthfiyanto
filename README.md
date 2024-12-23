@@ -17,4 +17,4 @@ Started as a frontend developer, experienced as a backend developer and continue
 ## Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luthfiyanto&icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=luthfiyanto)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=luthfiyanto&theme=algolia)](https://git.io/streak-stats)
